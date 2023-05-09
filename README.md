@@ -23,7 +23,7 @@
 
 <h3>Some interesting stats:</h3>
 <p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=Travis-B-CS1&show_icons=true&theme=tokyonight&count_private=true" alt="Travis-B-CS1" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Travis-B-CS1&theme=tokyonight&count_private=true" alt="Travis-B-CS1" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Travis-B-CS1&hide_border=true&theme=tokyonight&count_private=true" alt="Travis-B-CS1" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Travis-B-CS&show_icons=true&theme=tokyonight&count_private=true" alt="Travis-B-CS1" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Travis-B-CS&theme=tokyonight&count_private=true" alt="Travis-B-CS1" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Travis-B-CS&hide_border=true&theme=tokyonight&count_private=true" alt="Travis-B-CS1" />
 </p>
